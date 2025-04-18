@@ -21,4 +21,6 @@ Haciendo uso de la teclas del "D Pad" los jugadores pueden mover las paletas hac
   <em>"D Pad"</em>
 </p>
 
+## ¿Cómo cargar el juego?
+
 
