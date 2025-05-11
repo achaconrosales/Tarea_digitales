@@ -40,7 +40,7 @@ Para jugar el juego se debe tener acceso a la aplicación "Ripes", por ende, pri
 </p>
 Luego, se selecciona el apartado I/O donde se muestra la matriz de leds y el D-Pad que se va a utilizar para jugar el juego.
 <p align="center">
-  <img src="https://github.com/SaryVargasZ/Images/blob/main/Cargar%20archivo.png" alt="image" />
+  <img src="https://github.com/SaryVargasZ/Images/blob/main/IO.png" alt="image" />
   <br/>
   <em>"Apartado I/O"</em>
 </p>
