@@ -24,6 +24,11 @@ Haciendo uso de la teclas del "D Pad", los jugadores pueden mover las paletas ha
 ## ¿Cómo cargar el juego?
 ### Paso #1: Descargar el archivo
 Primero se debe descargar el archivo pongs.s adjunto en el presente repositorio.
+<p align="center">
+  <img src="https://github.com/SaryVargasZ/Images/blob/main/Pongs.png" alt="image" />
+  <br/>
+  <em>"Archivo pong.s"</em>
+</p>
 
 
 ### Paso #2: Usar la Aplicación Ripes
