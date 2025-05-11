@@ -38,7 +38,7 @@ Para jugar el juego se debe tener acceso a la aplicación "Ripes", por ende, pri
   <em>"Cargar archivo del juego"</em>
 </p>
 <p align="center">
-  <img src="https://github.com/SaryVargasZ/Images/blob/main/Pongs.png" alt="image" />
+  <img src="https://github.com/SaryVargasZ/Images/blob/main/Cargar%20archivo.png" alt="image" />
   <br/>
   <em>"Cargar archivo del juego"</em>
 </p>
