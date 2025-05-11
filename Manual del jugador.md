@@ -39,7 +39,15 @@ Para jugar el juego se debe tener acceso a la aplicación "Ripes", por ende, pri
   <em>"Cargar archivo del juego"</em>
 </p>
 Luego, se selecciona el apartado I/O donde se muestra la matriz de leds y el D-Pad que se va a utilizar para jugar el juego.
-
+<p align="center">
+  <img src="https://github.com/SaryVargasZ/Images/blob/main/Cargar%20archivo.png" alt="image" />
+  <br/>
+  <em>"Apartado I/O"</em>
+</p>
 Finalmente, se ejecuta el programa y se siguen las instrucciones mencionadas en la sección anterior para jugarlo.
-
+<p align="center">
+  <img src="https://github.com/SaryVargasZ/Images/blob/main/Cargar%20archivo.png" alt="image" />
+  <br/>
+  <em>"Juego Pong"</em>
+</p>
 
