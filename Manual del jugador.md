@@ -30,10 +30,18 @@ Primero se debe descargar el archivo pongs.s adjunto en el presente repositorio.
   <em>"Archivo pong.s"</em>
 </p>
 
-
 ### Paso #2: Usar la Aplicación Ripes
 Para jugar el juego se debe tener acceso a la aplicación "Ripes", por ende, primero se debe descargar la aplicación. Posteriormente, se debe ingresar a la pestaña File > Load program y seleccionar la opción source file, luego se carga el archivo pong.s descargado anteriormente.
-
+<p align="center">
+  <img src="https://github.com/SaryVargasZ/Images/blob/main/Pongs.png" alt="image" />
+  <br/>
+  <em>"Cargar archivo del juego"</em>
+</p>
+<p align="center">
+  <img src="https://github.com/SaryVargasZ/Images/blob/main/Pongs.png" alt="image" />
+  <br/>
+  <em>"Cargar archivo del juego"</em>
+</p>
 Luego, se selecciona el apartado I/O donde se muestra la matriz de leds y el D-Pad que se va a utilizar para jugar el juego.
 
 Finalmente, se ejecuta el programa y se siguen las instrucciones mencionadas en la sección anterior para jugarlo.
