@@ -33,7 +33,7 @@ Primero se debe descargar el archivo pongs.s adjunto en el presente repositorio.
 ### Paso #2: Usar la Aplicación Ripes
 Para jugar el juego se debe tener acceso a la aplicación "Ripes", por ende, primero se debe descargar la aplicación. Posteriormente, se debe ingresar a la pestaña File > Load program y seleccionar la opción source file, luego se carga el archivo pong.s descargado anteriormente.
 <p align="center">
-  <img src="https://github.com/SaryVargasZ/Images/blob/main/Pongs.png" alt="image" />
+  <img src="https://github.com/SaryVargasZ/Images/blob/main/Cargar.png" alt="image" />
   <br/>
   <em>"Cargar archivo del juego"</em>
 </p>
