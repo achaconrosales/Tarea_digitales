@@ -22,5 +22,12 @@ Haciendo uso de la teclas del "D Pad", los jugadores pueden mover las paletas ha
 </p>
 
 ## ¿Cómo cargar el juego?
+### Paso #1: Descargar el archivo
+Primero se debe descargar el archivo pongs.s adjunto en el presente repositorio.
+
+### Paso #2: Usar la Aplicación Ripes
+Para jugar el juego se debe tener acceso a la aplicación "Ripes", por ende, primero se debe descargar la aplicación. Posteriormente, se debe ingresar a la pestaña File > Load program y seleccionar la opción source file, luego se carga el archivo pong.s descargado anteriormente.
+Luego, se selecciona el apartado I/O donde se muestra la matriz de leds y el D-Pad que se va a utilizar para jugar el juego.
+Finalmente, se ejecuta el programa y se siguen las instrucciones mencionadas en la sección anterior para jugarlo.
 
 
