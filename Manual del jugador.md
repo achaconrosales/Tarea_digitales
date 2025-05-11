@@ -46,7 +46,7 @@ Luego, se selecciona el apartado I/O donde se muestra la matriz de leds y el D-P
 </p>
 Finalmente, se ejecuta el programa y se siguen las instrucciones mencionadas en la sección anterior para jugarlo.
 <p align="center">
-  <img src="https://github.com/SaryVargasZ/Images/blob/main/Cargar%20archivo.png" alt="image" />
+  <img src="https://github.com/SaryVargasZ/Images/blob/main/Juego.png" alt="image" />
   <br/>
   <em>"Juego Pong"</em>
 </p>
